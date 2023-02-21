@@ -1,3 +1,9 @@
+## Device picture
+
+![POCO X3](https://github.com/miuisr/miuisr/blob/main/image_devices/surya.png)
+
+Copyright (C) 2021 Paranoid Android.
+
 # Unified Device Tree for Xiaomi POCO X3/X3 NFC
 
 The POCO X3 (codenamed "karna") is a mid-range smartphone from Xiaomi's sub-brand POCO. It was announced and released in India, in September 2020.
@@ -27,8 +33,3 @@ The POCO X3 NFC (codenamed "surya") is a mid-range smartphone from Xiaomi's sub-
 | Fingerprint             | Side-mounted                                                    |
 | Sensors                 | Accelerometer, Gyro, Proximity, Compass, Pickup                 |
 
-## Device picture
-
-![POCO X3](https://github.com/miuisr/miuisr/blob/main/image_devices/surya.png)
-
-Copyright (C) 2021 Paranoid Android.
