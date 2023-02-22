@@ -1,6 +1,6 @@
 ## Device picture
 
-![POCO X3](https://github.com/miuisr/miuisr/blob/main/image_devices/surya.png)
+![POCO X3](https://cloud.miuisr.ml/api/raw/?path=/MIUISR/Images/devices/surya.png)
 
 Copyright (C) 2021 Paranoid Android.
 
